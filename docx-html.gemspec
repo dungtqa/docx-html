@@ -3,7 +3,7 @@ $:.unshift File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = 'docx-html'
-  #s.version     = Docx::Html::VERSION
+  s.version     = '0.1'#Docx::Html::VERSION
   s.summary     = 'convert .docx files into html'
   s.description = s.summary
   s.author      = 'Marcus Ortiz'
